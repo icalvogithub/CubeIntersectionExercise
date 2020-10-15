@@ -1,0 +1,11 @@
+D:\CubeIntersectionExercise\CubeIntersection\bin\Debug\netcoreapp3.0\CubeIntersection.exe
+D:\CubeIntersectionExercise\CubeIntersection\bin\Debug\netcoreapp3.0\CubeIntersection.deps.json
+D:\CubeIntersectionExercise\CubeIntersection\bin\Debug\netcoreapp3.0\CubeIntersection.runtimeconfig.json
+D:\CubeIntersectionExercise\CubeIntersection\bin\Debug\netcoreapp3.0\CubeIntersection.runtimeconfig.dev.json
+D:\CubeIntersectionExercise\CubeIntersection\bin\Debug\netcoreapp3.0\CubeIntersection.dll
+D:\CubeIntersectionExercise\CubeIntersection\bin\Debug\netcoreapp3.0\CubeIntersection.pdb
+D:\CubeIntersectionExercise\CubeIntersection\obj\Debug\netcoreapp3.0\CubeIntersection.csprojAssemblyReference.cache
+D:\CubeIntersectionExercise\CubeIntersection\obj\Debug\netcoreapp3.0\CubeIntersection.AssemblyInfoInputs.cache
+D:\CubeIntersectionExercise\CubeIntersection\obj\Debug\netcoreapp3.0\CubeIntersection.AssemblyInfo.cs
+D:\CubeIntersectionExercise\CubeIntersection\obj\Debug\netcoreapp3.0\CubeIntersection.dll
+D:\CubeIntersectionExercise\CubeIntersection\obj\Debug\netcoreapp3.0\CubeIntersection.pdb
